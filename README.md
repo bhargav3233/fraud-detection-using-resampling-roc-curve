@@ -1,11 +1,11 @@
 # fraud-detection-using-resampling
---Highlights in this project
-#model Building
-#model tuning
-#EDA
-#roc-curve
-#naivebayes
-#randomforest
+-Highlights in this project
+-model Building
+-model tuning
+-EDA
+-roc-curve
+-naivebayes
+-randomforest
 
 -	In this I used Random Forest and Naive Bayes to detect the fraud. Check the images below..
 
